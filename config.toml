@@ -1,8 +1,12 @@
 baseURL = "https://support.lmr-hh.de"
 theme = "dot"
+enableGitInfo = true
 
 title = "LMR IT-Support"
 defaultContentLanguage = "de"
+
+[frontmatter]
+lastmod = ["lastmod", ":git", ":fileModTime", "date", "publishedDate"]
 
 [params]
 # logo is for all page
