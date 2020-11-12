@@ -13,6 +13,10 @@ Die LMR-Cloud lässt sich unter Windows als Laufwerk einbinden, sodass man mit D
 Durch eine Einbindung als Laufwerk werden *keine* Daten synchronisiert. Dafür wird ein separates Programm gebraucht, wie z.B. der offizielle NextCloud Client. Für die folgenden Programme existieren ebenfalls Anleitungen: [Offizieller NextCloud Client](/setup-nextcloud-client)
 {{< /notice >}}
 
+{{< notice warning >}}
+Auf macOS funktionieren diese Schritte leider nicht. Die direkte Einbindung der NextCloud in den Finder funktioniert aktuell nicht. Benutzen Sie stattdessen ein anderes Programm, wie z.B. den [offiziellen NextCloud Client](/setup-nextcloud-client).
+{{</ notice >}}
+
 ## Schritt 1: Windows konfigurieren
 Um WebDAV-Laufwerke einbinden zu können, müssen zunächst einige Konfigurationen bei Windows geändert werden. Diese Schritte betreffen **Windows 10** und wurden nicht auf anderen Systemen getestet.
 
