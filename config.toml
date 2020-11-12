@@ -1,0 +1,40 @@
+baseURL = "https://support.lmr-hh.de"
+theme = "dot"
+
+title = "LMR IT-Support"
+defaultContentLanguage = "de"
+
+[params]
+# logo is for all page
+logo = "images/logo.png"
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = "images/logo-white.png"
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#c01d2a"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+################################ German Language ######################
+[Languages.de]
+languageName = "German"
+languageCode = "de-de"
+weight = 1
+copyright = "© 2020 [Landesmusikrat Hamburg](https://lmr-hh.de/)"
+
+# banner
+[Languages.de.params.banner]
+title = "LMR IT-Support"
+subtitle = "Hilfe und Anleitungsartikel zur LMR-Cloud"
+bg_image = "images/banner.jpg"
+placeholder = "Haben Sie eine Frage? Suchen Sie hier nach Anleitungen."
