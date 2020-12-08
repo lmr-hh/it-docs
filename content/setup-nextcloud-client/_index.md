@@ -1,7 +1,7 @@
 ---
 title: NextCloud Client einrichten
 publishedDate: 2020-11-12T23:00:00+01:00
-icon: ti-cloud
+icon: ti-desktop
 description: Ordner automatisch synchronisieren
 type : docs
 keywords: [windows explorer, einbinden, nextcloud client]
@@ -10,6 +10,7 @@ keywords: [windows explorer, einbinden, nextcloud client]
 In diesem Artikel wird erklärt, wie man einen oder mehrere Ordner aus der LMR-Cloud mit lokalen Ordnern automatisch synchronisieren kann.
 
 ## Schritt 1: NextCloud Client Installieren
+
 Der [NextCloud Client](https://nextcloud.com/de/clients/) synchronisiert Dateien aus der LMR-Cloud in einen lokalen Ordner. Er kann [hier](https://nextcloud.com/de/clients/) heruntergeladen werden.
 
 ![NextCloud Download](01-download.png)
