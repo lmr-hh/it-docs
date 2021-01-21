@@ -23,5 +23,5 @@ In dem jetzt geöffneten Fenster lassen sich viele Informationen zum verwendeten
 
 ## Vollständigen Systembericht erstellen
 
-Um einen vollständigen Systembericht zu erstellen, kannst du auf Datei > Exportieren klicken. Wähle einen Ort und einen Dateinamen für den Bericht und klicke auf “Speichern”. Das Erstellen des Berichts dauert eine Weile. Wenn der Bericht fertig ist, kannst du ihn z.B. per E-Mail verschicken.
+Um einen vollständigen Systembericht zu erstellen, kannst du auf **Datei > Exportieren** klicken. Wähle einen Ort und einen Dateinamen für den Bericht und klicke auf “Speichern”. Das Erstellen des Berichts dauert eine Weile. Wenn der Bericht fertig ist, kannst du ihn z.B. per E-Mail verschicken.
 
