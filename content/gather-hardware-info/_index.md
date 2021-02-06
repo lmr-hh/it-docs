@@ -3,7 +3,6 @@ title: Hardwareinformationen eines Windows-PCs ermitteln
 publishedDate: 2021-01-21T13:00:00+01:00
 icon: ti-microsoft
 description: Einen umfassenden Hardware-Bericht erstellen
-type: docs
 keywords: [faq, anleitung, windows, hardware]
 ---
 
