@@ -34,7 +34,7 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 languageName = "German"
 languageCode = "de-de"
 weight = 1
-copyright = "© 2020 [Landesmusikrat Hamburg](https://lmr-hh.de/)"
+copyright = "© 2021 [Landesmusikrat Hamburg](https://lmr-hh.de/)"
 
 # banner
 [Languages.de.params.banner]

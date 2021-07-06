@@ -7,16 +7,10 @@ type: docs
 keywords: [faq, anleitung, nextcloud]
 ---
 
-Die LMR-Cloud ist der gemeinsame Online-Speicher und das digitale Archiv des Landesmusikrats Hamburg. Diese Seite beinhaltet einige Hilfeartikel, die den Einstieg mit der LMR-Cloud erleichtern sollen.
+Die LMR-Cloud ist der Name des Cloud-Systems, in dem alle digitalen Daten des Landesmusikrats Hamburg verwaltet werden. Es handelt sich dabei um [Microsoft 365](https://www.microsoft.com/de-de/microsoft-365) für Unternehmen (nicht zu verwechseln mit privaten Microsoft 365 oder Office 365 Abonnements). Diese Seiten sollen dabei helfen, den Einstieg in der Arbeit mit der LMR-Cloud zu erleichtern. Außerdem dient diese Seite als Referenzseite mit Anleitungen für typische Szenarien.
 
-## [Wo finde ich was?](/first-steps/where-is-what)
-Die LMR-Cloud enthält einige Ordner, die für bestimmte Zwecke gedacht sind. Dieser Artikel beschreibt diese Ordner.
+- Office Homepage
+- Link zur Benutzung der OWA, Links zum Einrichten von Client-Apps
+- OneDrive im Web, Links zum Synchronisieren von Dateien
+- MS Teams für Videokonferenzen
 
-## [Dateien synchronisieren](/setup-nextcloud-client)
-Dieser Artikel beschreibt, wie der NextCloud Client eingerichtet werden kann, um Dateien lokal zu synchronisieren.
-
-## [Dateien im Windows Explorer sehen](/map-network-drive)
-Dieser Artikel beschreibt, wie die Cloud unter Windows im Explorer eingebunden werden kann.
-
-## [FAQ](/first-steps/faq)
-Sind noch Fragen offen geblieben? Vielleicht werden diese ja im FAQ beantwortet.
